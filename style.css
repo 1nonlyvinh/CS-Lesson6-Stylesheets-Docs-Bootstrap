@@ -45,7 +45,7 @@ body {
     background-color: #fafafa;
   }
 
-  #dino-image {
+  img {
     width: 100%;
     max-width: 600px;
     display: block;
